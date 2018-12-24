@@ -1,0 +1,12 @@
+# All compiled PDF
+*.pdf
+# All zipped files
+*.zip
+# All notes
+*.txt
+# vscode related files
+.vscode/*
+# Standalone data folder
+Datas/*
+# Release problem sheet
+problemset-release/*
