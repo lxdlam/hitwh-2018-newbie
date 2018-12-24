@@ -12,9 +12,9 @@ The problem sheets are edited using [Typora][1] and generated using [pandoc][2].
 
 Some of the problems are arranged from different sources with modifications by me. All the works are licensed under [CC BY-SA 3.0][5]. Feel free to use them.
 
-**All problem related materials will unlock at 2018.12.24**.
+~~All problem related materials will unlock at 2018.12.24.~~ All materials are unlocked.
 
-Scoreboard and ranking will be upload also. Stay tuned!
+Scoreboard is available.
 
 ----
 
@@ -28,13 +28,13 @@ Scoreboard and ranking will be upload also. Stay tuned!
 
 我们只提供**中文**的题目描述和问题分析。你可以在每个问题对应的文件夹下面找到数据、标程以及单题描述。
 
-问题集是使用 [Typora][1] 编写并使用 [pandoc][2] 生成的。原来的主题是 [Law][4]，我修改过的版本你可以在 `others/themes` 里面找到。问题分析使用 [Marp][3] 编辑和生成。
+问题集是使用 [Typora][1] 编写并使用 [pandoc][2] 生成的。原来的主题是 [Law][4]，我修改过的版本你可以在 `others/themes` 里面找到。题解使用 [Marp][3] 编辑和生成。
 
-这里面的部分问题来自不同的地方，我做出了部分修改。所有的问题基于 [CC BY-SA 3.0][6] 协议提供许可。你可以随意使用。
+这里面的部分问题是我从以往做过的题目中选出的，我在此基础上做出了部分修改。所有的问题基于 [CC BY-SA 3.0][6] 协议提供许可，在遵守协议的基础上可以随意使用。
 
-**所有和问题有关的材料将会在 2018.12.24 解锁。**
+~~所有和问题有关的材料将会在 2018.12.24 解锁。~~ 所有材料已经解锁。
 
-原始的榜单和成绩也会上传。敬请关注！
+原始的榜单已经上传。
 
 [1]: https://www.typora.io/
 [2]: http://www.pandoc.org/
